@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/2ndly/2ndly.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 2ndly yo momma
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I wonder if this really works
 
 ```markdown
 Syntax highlighted code block
